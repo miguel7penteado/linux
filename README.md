@@ -1,6 +1,13 @@
 # linux
 Algumas anotações gerais Linux
 
+## Virtualbox
+
+```bash
+
+```
+
+
 ## xorg.conf.d
 
 `01-arquivos.conf`
